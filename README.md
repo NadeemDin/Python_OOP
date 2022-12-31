@@ -1,7 +1,7 @@
 <h1>Python OOP Projects </h1>
-<h2>Object-orientated Programming using Python.</h2> 
+<h2>Object-oriented Programming using Python.</h2> 
 <p>Programming isnt all fun and games; until it is. </p>
-<p>This Project folder will contain various games built using Object-orientated Programming and Turtle Graphics during one of my Python programming courses. </p>
+<p>This Project folder will contain various games built using Object-oriented Programming and Turtle Graphics during one of my Python programming courses. </p>
 
 1.Classic Turtle Crossing Game:
 - Get the turtle to the otherside of the screen by avoiding fatal collisions with the randomly generated cars.
